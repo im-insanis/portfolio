@@ -43,3 +43,5 @@ public:
         return false;
     }
 };
+
+#출처 : https://leetcode.com/problems/balanced-binary-tree/discuss/577388/leetcode-110-c-booksun
