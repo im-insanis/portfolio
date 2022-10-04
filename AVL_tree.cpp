@@ -105,3 +105,5 @@ struct node* insert(struct node* root, int key) {
   
   return root;
 }
+
+# 출처 : https://yoongrammer.tistory.com/72
